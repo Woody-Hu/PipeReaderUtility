@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WbD7wJKPCmWl0r9sjJvUxt0pFDEck3OGUWKiunl3j/XeKC7nQy1P9d+y53rM68G+yLfi9eZnAjtc3wapqMvNBA==",
+  "success": true,
+  "projectFilePath": "/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/PipeReaderUtility.csproj",
+  "expectedPackageFiles": [
+    "/Users/stephen/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/PipeReaderUtility.deps.json
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/PipeReaderUtility.runtimeconfig.json
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/PipeReaderUtility.runtimeconfig.dev.json
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/PipeReaderUtility.dll
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/PipeReaderUtility.pdb
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/bin/Debug/netcoreapp3.1/System.IO.Pipelines.dll
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.csproj.AssemblyReference.cache
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.AssemblyInfoInputs.cache
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.AssemblyInfo.cs
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.csproj.CoreCompileInputs.cache
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.csproj.CopyComplete
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.dll
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.pdb
+/Users/stephen/Documents/GitHub/PipeReaderUtility/PipeReaderUtility/obj/Debug/netcoreapp3.1/PipeReaderUtility.genruntimeconfig.cache

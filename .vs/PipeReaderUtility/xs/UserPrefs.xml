@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6CCCB560-88F0-48C3-A2ED-D5EDCF587CF0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PipeReaderUtility/PipeReaderExtension.cs">
+    <Files>
+      <File FileName="PipeReaderUtility/Program.cs" Line="1" Column="1" />
+      <File FileName="PipeReaderUtility/PipeReaderExtension.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PipeReaderUtility" expanded="True">
+            <Node name="PipeReaderUtility" expanded="True">
+              <Node name="PipeReaderExtension.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PipeReaderUtility FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
