@@ -70,11 +70,20 @@ namespace PipeReaderUtility
                 throw new NotSupportedException("should start with , [ ] {");
             }
 
-            var jsonReader = new Utf8JsonReader(buffer);
-            jsonReader.Read();
-            item = JsonSerializer.Deserialize<T>(ref jsonReader, jsonSerializerOptions);
-            commited = buffer.GetPosition(jsonReader.BytesConsumed);
-            examined = commited;
+            try
+            {
+                var jsonReader = new Utf8JsonReader(buffer);
+                jsonReader.Read();
+                item = JsonSerializer.Deserialize<T>(ref jsonReader, jsonSerializerOptions);
+                commited = buffer.GetPosition(jsonReader.BytesConsumed);
+                examined = commited;
+            }
+            catch
+            {
+                examined = buffer.End;
+                return false;
+            }
+
             return true;
         }
     }
